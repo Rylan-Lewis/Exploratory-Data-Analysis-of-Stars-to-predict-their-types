@@ -1,1 +1,4 @@
 # Exploratory-Data-Analysis-of-Stars-to-predict-their-types
+Stars are the fundamental building blocks of the universe, and understanding their properties and characteristics is essential in unraveling the mysteries of our cosmos. This project focuses on using data-driven techniques to classify stars into different types based on their attributes, such as temperature, luminosity, and radius. By conducting exploratory data analysis, we aim to uncover patterns, relationships, and anomalies within the dataset.This repository houses a comprehensive analysis of stellar data to gain insights into various star types and their features, and predict the category in which unidentified stars being discovered everyday would accurately fit into.
+
+Link for the dataset from kaggle: https://www.kaggle.com/datasets/deepu1109/star-dataset
